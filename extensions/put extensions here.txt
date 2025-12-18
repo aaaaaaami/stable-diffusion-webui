@@ -1,0 +1,1 @@
+https://github.com/IntellectzProductions/sd-webui-faceswap.git
